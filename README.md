@@ -1,6 +1,6 @@
 # Dota 2 Bot
 
-Back in 2013, I wrote a bot in Java for the video game Dota 2. The bot even attracted attention on Reddit. Clearly, just narrowly failing the Turing test:
+Back in 2013, I wrote a bot in Java for the video game Dota 2. The bot even attracted attention on Reddit. Clearly, ![just narrowly failing the Turing test](https://www.reddit.com/r/DotA2/comments/1ptytx/comment/cd6bgxk/?utm_source=share&utm_medium=web2x&context=3):
 
 ![bot_famous.png](https://dennisalp.com/assets/img/bot_famous.png)
 
